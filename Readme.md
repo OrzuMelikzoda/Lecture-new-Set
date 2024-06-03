@@ -21,7 +21,7 @@ const numbers = new Set([1, 2, 3, 4, 5]);
 console.log(numbers);       // Set(5) {1, 2, 3, 4, 5}
 ```
 
-<h2 style = " color : red "> Размер набора </h2>
+ <span  style = " color : red "> Размер набора </span>
 
 ### Для проверки количества элементов можно использовать свойство size.
 
